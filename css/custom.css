@@ -1,0 +1,80 @@
+body{
+    background-color: #4A525A;
+    font-family: Inconsolata, monospace;
+  }
+
+body h2,h3,h4,h5,p{
+    color: white;
+
+}
+
+.navbar-custom{
+    color: #4A525A;
+    margin-bottom: 0;
+}
+
+.navbar-header{
+    color: #4A525A;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-nav a{
+    color: white;
+}
+.nav li a:hover {
+    background-color: #4A525A;
+}
+
+.jumbotron{
+    background-color: #4A525A;
+}
+
+.navbar-collapse a{
+    color: white;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.jumbotron img
+{
+    border-radius: 50%;
+}
+
+.jumbotron{
+    margin-bottom: 0;
+}
+
+.container-fluid #maze{
+    width:140px;
+    height:140px;
+    border:0;
+}
+
+.container-fluid #gps{
+    width:140px;
+    height:140px;
+    border:0;
+}
+
+#jumbo{
+    margin-bottom: 0;
+}
+
+.progress{
+    background-color: #4A525A;
+
+}
+
+ #projects #maze{
+    color: white;
+}
+
+
+
+
+
